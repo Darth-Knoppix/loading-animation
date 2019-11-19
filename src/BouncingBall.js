@@ -37,7 +37,7 @@ export default function BouncingBall() {
         transition={threeDotsWaveTransition}
         style={anim1BlockStyle}
         animate={{
-          backgroundColor: ["rgb(0,255,0)", "rgb(0,0,255)", "rgb(255,0,0)"],
+          backgroundColor: ["#ff6699", "#6666ff"],
           y: ["100%", "-100%"]
         }}
       />

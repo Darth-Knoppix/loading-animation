@@ -1,6 +1,7 @@
 import React from "react";
 import ThreeDotsWave from "./ThreeDotsWave";
 import BouncingBall from "./BouncingBall";
+import CircleLoader from "./CircleLoader";
 
 function App() {
   return (
@@ -17,9 +18,10 @@ function App() {
         </section>
       </article>
       <Grid>
-        <BouncingBall />
-        <ThreeDotsWave />
+        <CircleLoader />
       </Grid>
+      {/* <BouncingBall /> */}
+      {/* <ThreeDotsWave /> */}
     </div>
   );
 }

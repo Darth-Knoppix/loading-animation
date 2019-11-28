@@ -1,5 +1,6 @@
 import React from "react";
 import ThreeDotsWave from "./ThreeDotsWave";
+import BouncingBall from "./BouncingBall";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         </section>
       </article>
       <Grid>
+        <BouncingBall />
         <ThreeDotsWave />
       </Grid>
     </div>

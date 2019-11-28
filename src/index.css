@@ -26,3 +26,9 @@ html {
   justify-content: center;
   align-items: center;
 }
+
+.ig {
+  transform: scale(2);
+  transform-origin: 0 0;
+  background-color: transparent;
+}

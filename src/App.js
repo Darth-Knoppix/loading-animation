@@ -2,6 +2,7 @@ import React from "react";
 import ThreeDotsWave from "./ThreeDotsWave";
 import BouncingBall from "./BouncingBall";
 import CircleLoader from "./CircleLoader";
+import SolarSystem from "./SolarSystem";
 
 function App() {
   return (
@@ -18,8 +19,9 @@ function App() {
         </section>
       </article>
       <Grid>
-        <CircleLoader />
+        <SolarSystem />
       </Grid>
+      {/* <CircleLoader /> */}
       {/* <BouncingBall /> */}
       {/* <ThreeDotsWave /> */}
     </div>

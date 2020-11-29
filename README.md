@@ -2,7 +2,7 @@
 
 ## Three Circles Loader
 
-![title card with title: make a simple loading animation and Framer Motion](https://blog.sethcorker.com/content/images/size/w2000/2019/11/Copy-of-Transitions---Dev.png)
+![title card with title: make a simple loading animation and Framer Motion](https://blog.sethcorker.com/static/9d17b3c2368e1cbf390ee56da5100cec/6e1d9/Copy-of-Transitions---Dev.webp)
 
 Read the aricle on my blog [A simple loading animation with Framer Motion](https://blog.sethcorker.com/an-easy-loading-animation-with-framer-motion/) or engage with me on the [DEV Community](https://dev.to/darthknoppix/a-simple-loading-animation-with-framer-motion-5f8o).
 
@@ -10,7 +10,7 @@ Watch the video tutorial [Create a loading animation in React (Framer Motion)](h
 
 ## Circle Loader
 
-![title card with title: circle spinner](https://blog.sethcorker.com/content/images/size/w2000/2019/12/Cover---Spinner.jpg)
+![title card with title: circle spinner](https://blog.sethcorker.com/static/22cd7e8fd58b44ab85701ae1fe0ec75b/ae34f/Cover---Spinner.webp)
 
 Read the aricle on my blog [Spinner Animation in React](https://blog.sethcorker.com/spinner-animation-in-react/).
 
